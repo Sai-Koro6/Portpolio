@@ -149,11 +149,16 @@ body{
     background-color: #000;
     color: #fff;
     opacity: .1;
-    height: 350px;
+    height: 665px;
     width: 700px;
     margin-top: 50px;
     border-radius: 10px;
 }
+#jake{
+    height: 100px;
+    width: 100px;
+}
+
 
     
 
